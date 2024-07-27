@@ -1,5 +1,5 @@
 import { Inter } from "next/font/google";
-import { Header } from "@/components/header";
+import { Header } from "@/components/Header";
 import { FirstViwe } from "@/components/FirstView";
 import { About } from "@/components/About";
 import { Corporate } from "@/components/Corporate";
