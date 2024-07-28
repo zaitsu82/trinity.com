@@ -10,27 +10,27 @@ export function Header() {
                 <nav className="flex items-center justify-end h-full">
                     <ul className='flex space-x-6 pr-4'>
                         <li>
-                            <Link href="/" className="hover:text-blue-500 hover:underline">
+                            <Link href="/" className="hover:text-purple-500 hover:underline">
                                 top
                             </Link>
                         </li>
                         <li>
-                            <Link href="/about" className="hover:text-blue-500 hover:underline">
+                            <Link href="/about" className="hover:text-purple-500 hover:underline">
                                 about
                             </Link>
                         </li>
                         <li>
-                            <Link href="/corporate" className="hover:text-blue-500 hover:underline">
+                            <Link href="/corporate" className="hover:text-purple-500 hover:underline">
                                 corporate
                             </Link>
                         </li>
                         <li>
-                            <Link href="/service" className="hover:text-blue-500 hover:underline">
+                            <Link href="/service" className="hover:text-purple-500 hover:underline">
                                 service
                             </Link>
                         </li>
                         <li>
-                            <Link href="/contact" className="hover:text-blue-500 hover:underline">
+                            <Link href="/contact" className="hover:text-purple-500 hover:underline">
                                 contact
                             </Link>
                         </li>

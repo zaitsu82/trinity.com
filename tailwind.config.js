@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'first-view': "url('/unsplash_Vtgrmre8qCA.png')",
+        'about-img':"url('/unsplash_k1bO_VTiZSs.png')",
       },
       colors:{
         'footer':'#6B7375'

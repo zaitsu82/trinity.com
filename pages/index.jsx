@@ -11,13 +11,14 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <div>
+    <div className="flex flex-col min-h-screen">
       <Header />
-      <FirstViwe />
-      <About />
-      <Corporate />
-      <Service />
-      <Contact />
+      <main className="flex-grow">
+        <FirstViwe />
+        <Corporate />
+        <Service />
+        <Contact />
+      </main>
       <Footer />
     </div>
   );
